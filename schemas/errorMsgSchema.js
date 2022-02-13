@@ -8,3 +8,4 @@ const error = new mongoose.Schema({
 });
 
 module.exports = mongoose.model("Error", error);
+  
