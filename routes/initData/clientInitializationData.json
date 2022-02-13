@@ -1,0 +1,22 @@
+{
+    "clients": [
+      {
+        "_id": "607755be74fd3e3a2c1c629b",
+        "firstName": "Aleksander",
+        "surname": "Nowak",
+        "phone": "728999210",
+        "documentNumber": "CCC1112",
+        "address": "Ogrodowa 66",
+        "city": "08-110 Siedlce"
+      },
+      {
+        "_id": "607755be74fd3e3a2c1c623b",
+        "firstName": "Konrad",
+        "surname": "Nowak",
+        "phone": "728999110",
+        "documentNumber": "CCC1132",
+        "address": "Starowiejska 12",
+        "city": "09-321 Kraków"
+      }
+    ]
+  }

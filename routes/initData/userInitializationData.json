@@ -1,0 +1,15 @@
+{
+    "users": [
+      {
+        "_id": "607755be74fd3e3a2c1c629b",
+        "username": "asd",
+        "password": "$2a$10$aQwU7U4Ed9Hqb0CGSeCTieoZGGSZAD60gDTPfTMCZO5q53nqXkSTa",
+        "firstName": "Szymon",
+        "surname": "Sikorski",
+        "phone": "728999230",
+        "email": "szymonsikorski5@wp.pl",
+        "typeUser": "Właściciel",
+        "accessUser": "admin"
+      }
+    ]
+  }
